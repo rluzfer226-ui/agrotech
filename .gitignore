@@ -1,0 +1,11 @@
+# Entornos virtuales
+entorno_agrotech/
+venv/
+__pycache__/
+
+# Bases de datos locales
+*.db
+*.sqlite3
+
+# Archivos de Reflex generados automáticamente
+.web/
